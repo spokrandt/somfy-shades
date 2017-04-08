@@ -3,10 +3,11 @@
  * https://community.smartthings.com/t/my-somfy-smartthings-integration/13492
  * Modified ERS 12/29/2016
  *
- * Version 1.0.7
+ * Version 1.0.8
  *
  * Version History
  *
+ * 1.0.8    07 APR 2017     Add Sunsetter awning
  * 1.0.7    26 Mar 2017		Few updates  (be sure to go into each device, select settings (gear), and hit done
  * 1.0.6    29 Dec 2016		Health Check
  * 1.0.5    01 May 2016		bug fixes
